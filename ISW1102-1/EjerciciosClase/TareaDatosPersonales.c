@@ -13,7 +13,7 @@ void main()
     scanf("%i",&dia);
     printf("Escriba el mes de su nacimiento: ");
     scanf("%s",mes);
-    printf("Escriba el año de su nacimiento: ");
+    printf("Escriba el aÃ±o de su nacimiento: ");
     scanf("%i",&year);
     printf("Escriba su color favorito: ");
     scanf("%s",color);
@@ -54,7 +54,7 @@ void main()
     printf("\n");
     printf("Mi nombre es: %s \n", nombre);
     printf("Mi apellido es: %s \n",apellido);
-    printf("Mi edad es: %i años \n",edad);
+    printf("Mi edad es: %i aÃ±os \n",edad);
     printf("Naci el: %i de %s de %i \n",dia, mes, year);
     printf("Mi color favorito es el: %s \n",color);
     printf("Mi hobbie favorito es: %s \n", hobbie);
@@ -69,6 +69,6 @@ void main()
     printf("Lo que mas valoro en una persona es: %s \n", valorar);
     printf("Me gusta ser %s con las personas. \n", gustser);
     printf("Mi mayor defecto es: %s \n", defecto);
-    printf("Mi personaje histórico favorito es: %s \n", personaje);
+    printf("Mi personaje histÃ³rico favorito es: %s \n", personaje);
     printf("Mi frase favorita es: %s \n", frase);
 }
